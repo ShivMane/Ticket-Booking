@@ -1,0 +1,36 @@
+[
+  {
+    "trainId": "12345",
+    "source": "Mumbai",
+    "destination": "Delhi",
+    "stationTimes": {
+      "Mumbai": "08:00 AM",
+      "Surat": "10:30 AM",
+      "Ahmedabad": "12:00 PM",
+      "Jaipur": "04:00 PM",
+      "Delhi": "08:00 PM"
+    },
+    "seats": [
+      [0, 0, 1, 0],
+      [1, 0, 0, 1],
+      [0, 0, 0, 0]
+    ]
+  },
+  {
+    "trainId": "67890",
+    "source": "Pune",
+    "destination": "Bangalore",
+    "stationTimes": {
+      "Pune": "07:00 AM",
+      "Kolhapur": "09:30 AM",
+      "Belgaum": "12:00 PM",
+      "Hubli": "03:00 PM",
+      "Bangalore": "07:30 PM"
+    },
+    "seats": [
+      [1, 0, 0, 1],
+      [0, 0, 1, 0],
+      [0, 1, 0, 0]
+    ]
+  }
+]
